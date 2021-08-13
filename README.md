@@ -1,6 +1,14 @@
 ### Hi there 👋
 Arnav here .
-I think I am happy as long as its rusty 🦀
+I think I am happy as long as its rusty 🦀.
+# Where do I live : Doom-emacs.
+# Where I want to live : Emacs.
+MacOS is just a bootlaoder for esoteric text editors.
+I can't develop a website even if my life depended on it.
+I can fix your computer maybe . Will do it for very less money 😀 .
+# OS : EndeavourOS 
+# WM: BSPWM
+ALSO I AM NOT VERY SMART 🙁
 <!--
 **xerexcoded/xerexcoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
