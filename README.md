@@ -9,7 +9,7 @@ I can fix your computer maybe . Will do it for very less money 😀 .
 ## OS : EndeavourOS 
 ## WM: BSPWM
 ALSO I AM NOT VERY SMART 
- <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+
 <!--
 **xerexcoded/xerexcoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
