@@ -8,7 +8,7 @@ I can't develop a website even if my life depended on it.
 I can fix your computer maybe . Will do it for very less money 😀 .
 ## OS : EndeavourOS 
 ## WM: BSPWM
-🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦
+🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦
 <!--
 **xerexcoded/xerexcoded** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
