@@ -1,8 +1,8 @@
 # Hi there 👋
 Arnav here .
 I think I am happy as long as its rusty 🦀.
-## Where do I live : Spacevim.
-## Where I want to live : Vim.
+## Where do I live : NvChad.
+## Where I want to live : nvim.
 MacOS is just a bootlaoder for esoteric text editors.
 I can't develop a website even if my life depended on it.
 I can fix your computer maybe . Will do it for very less money 😀 .
