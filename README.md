@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 
 
 
-![](https://media.giphy.com/media/fSvqyvXn1M3btN8sDh/giphy.gif)
+![](https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g)
 
