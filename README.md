@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Arnav here .
+Arnav here.
 I think I am happy as long as its rusty 🦀.
 
 ## Where do I live: NvChad.
