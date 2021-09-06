@@ -26,7 +26,7 @@ I can fix your computer maybe. Will do it for very less money. 😀
 </p>
 
 <p align="center">
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xerexcoded&layout=compact&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
+<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xerexcoded&lang_count=10&include_all_commits=true&show_icons=true&line_height=21&bg_color=0,420000,120042&theme=dark">
 </p>
 
 ![Pikachu](https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g)
