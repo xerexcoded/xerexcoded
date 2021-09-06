@@ -33,6 +33,6 @@ I can fix your computer maybe. Will do it for very less money. 😀
 </p>
 
 <p align="center">
-![Pikachu](https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g)
+<img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
 
 </p>
