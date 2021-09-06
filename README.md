@@ -26,7 +26,7 @@ I can fix your computer maybe. Will do it for very less money. 😀
 </p>
 
 <p align="center">
-<img width="50%" height="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=xerexcoded&jupyter-notebooks&langs_count=10&include_all_commits=true&show_icons=true&line_height=21&theme=gruvbox">
+<img width="50%" height="400em"src="https://github-readme-stats.vercel.app/api/top-langs/?username=xerexcoded&jupyternotebook&langs_count=10&include_all_commits=true&show_icons=true&line_height=21&theme=gruvbox">
 <img width="50%" height="400em"src="https://github-readme-stats.vercel.app/api/wakatime/?username=xerexcoded">
 
 
