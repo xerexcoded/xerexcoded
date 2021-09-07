@@ -13,7 +13,11 @@ I can fix your computer maybe. Will do it for very less money. 😀
 ## OS: EndeavourOS 
 ## WM: BSPWM
 
-🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦🍦
+<p align="center">
+<img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
+
+</p>
+
 <h3>STATS:</h3><hr>
 <p align="center">
  
@@ -25,8 +29,3 @@ I can fix your computer maybe. Will do it for very less money. 😀
 
 </p>
 
-
-<p align="center">
-<img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
-
-</p>
