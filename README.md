@@ -10,8 +10,8 @@ MacOS is just a bootlaoder for esoteric text editors.
 I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 😀
 
-## OS: EndeavourOS 
-## WM: BSPWM
+## OS: EndeavourOS | Void Linux 
+## WM: BSPWM | X Freakin' Cool Environment
 
 <p align="center">
 <img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
