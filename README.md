@@ -3,8 +3,8 @@
 Arnav here.
 I think I am happy as long as its rusty 🦀.
 
-## Where do I live: NvChad. 
-## Where I want to live: nvim.
+## Where do I live: Moving between places . 
+## Where I want to live: Emacs .
 
 MacOS is just a bootlaoder for esoteric text editors.
 I can't develop a website even if my life depended on it.
