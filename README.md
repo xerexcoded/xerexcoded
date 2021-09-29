@@ -10,7 +10,7 @@ MacOS is just a bootlaoder for esoteric text editors.
 I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 😀
 Must Enter the Void
-## OS: EndeavourOS | Void Linux (FreeBSD/Guix take me) 
+## OS: EndeavourOS | Void Linux (FreeBSD) 
 ## WM: BSPWM | X Freakin' Cool Environment (95)
 
 <p align="center">
