@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋</h1>
+<h1 align="center">Hello there 👋</h1>
 
 Arnav here.
 I think I am happy as long as its rusty 🦀.
