@@ -11,7 +11,7 @@ I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 😀
 Must Enter the Void
 ## OS: Arch | Void Linux (want FreeBSD) 
-## WM: Sway | X Freakin' Cool Environment (95)
+## WM: Sway | X Freakin' Cool Environment(1995) && i3
 
 <p align="center">
 <img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
