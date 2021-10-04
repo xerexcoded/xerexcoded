@@ -10,7 +10,7 @@ MacOS is just a bootlaoder for esoteric text editors.
 I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 😀
 Must Enter the Void
-## OS: Arch | Void Linux (want FreeBSD) 
+## OS: Arch | Void Linux (want FreeBSD got not drivers) 
 ## WM: Sway | X Freakin' Cool Environment(1995) && i3
 
 <p align="center">
