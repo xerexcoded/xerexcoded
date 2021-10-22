@@ -9,7 +9,7 @@ I think I am happy as long as its rusty 🦀.
 MacOS is just a bootloader for esoteric text editors.
 I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 😀
-Must Enter the Void
+*Declare it thee must*
 ## OS: Arch | Nix OS (rebuild i will) 
 ## WM: Sway | KDE :[
 <p align="center">
