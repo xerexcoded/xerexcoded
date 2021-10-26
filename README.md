@@ -11,7 +11,7 @@ I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 😀
 
 ## *Declare it thee must*
-## OS: Arch | Nix OS (rebuild i will) 
+## OS: Arch | Nix OS (rebuild i will everything) 
 ## WM: Sway | KDE :[
 ## Shell : Fish 🐟
 <p align="center">
