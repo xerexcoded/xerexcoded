@@ -1,7 +1,7 @@
 <h1 align="center">Hello there 👋</h1>
 
 Arnav here.
-I think I am happy as long as its rusty 🦀.
+I am happy as long as its rusty 🦀.
 
 ## Where do I live: Moving between places . 
 ## Where I want to live: Emacs .
