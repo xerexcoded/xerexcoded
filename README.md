@@ -11,9 +11,9 @@ I can't develop a website even if my life depended on it.
 I can fix your computer maybe. Will do it for very less money. 
 
 ## *Declare it thee must*
-## OS: Arch | GNU GUIX (rebuild i will everything) 
-## WM:  bspwm && Openbox | exwm :[
-## Shell : zsh 
+## OS: Arch | NixOS (rebuild i will everything) 
+## WM:  bspwm  :[
+## Shell : fish || nu 
 <p align="center">
 <img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
 
