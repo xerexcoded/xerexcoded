@@ -1,32 +1,17 @@
-<h1 align="center">Hello there 👋</h1>
+<h1 align="center">Welcome to My GitHub! 👋</h1>
 
-Arnav here.
-I am happy as long as its rusty 🦀.
+### About Me
+Hello, I'm Arnav! I'm passionate about technology and thrive in environments that challenge me to learn and grow. My interest in Rust and functional programming defines much of my programming pursuits.
 
-## Where do I live: Moving between places . 
-## Where I want to live: Emacs .
+#### Current Location
+- 🌍 I'm currently exploring different places, embracing the digital nomad lifestyle.
 
-MacOS is just a bootloader for esoteric text editors.
-I can't develop a website even if my life depended on it.
-I can fix your computer maybe. Will do it for very less money. 
+#### Dream Setup
+- 💻 Dreaming of a life coded in Emacs; where every challenge is just another function to solve.
 
-## *Declare it thee must*
-## OS: Fedora | NixOS (rebuild i will everything) 
-## WM:  fluffy gnome && sway  :]
-## Shell : bash  
-<p align="center">
-<img src="https://media.giphy.com/media/slVWEctHZKvWU/giphy.gif?cid=ecf05e47ygx3xgeo8obeqz1y981eoxv3ju6lhn51ilxqctp4&rid=giphy.gif&ct=g">
+#### Fun Fact
+- 🖥️ MacOS for me is merely a gateway to the world of esoteric text editors.
 
-</p>
-
-<h3>STATS:</h3><hr>
-<p align="center">
- 
-
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=xerexcoded&show_icons=true&theme=gruvbox" />
- 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=xerexcoded&theme=gruvbox" />
-
-
-</p>
+### Technical Skills
+- 🚀 While web development isn't my forte, I excel in system programming and can troubleshoot and fix your computer issues—potentially for a modest fee
 
